@@ -17,7 +17,7 @@ npm run build
 
 ### LIVE DEMO
 ```
-https://insane-ead4d.web.app
+https://v-contact-6c51f.web.app/
 ```
 
 ### Customize configuration
